@@ -1,4 +1,7 @@
-=> Problem Statement:
+## live link 
+https://curious-lydian-confidence.glitch.me/
+
+## Problem Statement
 
 Assume that you are the CTO for the outsourcing firm which has been chosen to build an
 admission form for the Yoga Classes which happen every month.
@@ -14,7 +17,7 @@ month. I.e. participants can shift from one batch to another in different months
 same month they need to be in same batch
 
 
-=> SOLUTION: 
+## SOLUTION
 
 # yogaClasses
 It is NodeJS and Mysql based form that gets data from user and stores it inside Mysql database.
