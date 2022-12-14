@@ -30,5 +30,22 @@ Notes:
 5) I am using html, CSS, Node.js, Express.js, Bootstrap, JS, Mysql, Glitch, GIT, dev, etc... for making the project.
 6) To run just open terminal, start npm, and write command -  npm run dev
 7) You can direct start the app using this live link- https://curious-lydian-confidence.glitch.me/
+8) Form look like:
+<img width="877" alt="submit button disabled" src="https://user-images.githubusercontent.com/54767198/207519276-73eacc48-6443-4786-9370-e72ea5a8fc34.PNG">
+9) After payment you can submit your details:
+<img width="913" alt="website look" src="https://user-images.githubusercontent.com/54767198/207519382-7cee9699-8064-4dee-bd24-a8ab3025b3a8.PNG">
+10) After submission of details:
+<img width="494" alt="after submit" src="https://user-images.githubusercontent.com/54767198/207519423-8ddd1601-f2da-40bc-8f06-afadcd10be54.PNG">
+11) Local database if not done online hosting:
+<img width="381" alt="local database" src="https://user-images.githubusercontent.com/54767198/207519479-032ef775-60ae-4ba1-a70f-30cfa41a2d05.PNG">
+12) Online hosted database (link:https://phpmyadmin.freedb.tech/index.php?route=/sql&db=freedb_formdata&table=yoga&pos=0.)
+<img width="930" alt="online database" src="https://user-images.githubusercontent.com/54767198/207519577-f2bde0ef-4469-4a2a-b4f9-1ca555e64cb6.PNG">
+
+## THANK YOU FOR READING
+
+
+
+
+
 
 
